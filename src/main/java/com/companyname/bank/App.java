@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "testing the first CI change1");
+        System.out.println( "testing the first CI change12");
     }
 }
